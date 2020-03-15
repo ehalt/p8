@@ -1,0 +1,147 @@
+
+
+
+.hbg {
+    background: #FFF0E9;
+}
+
+.ltk{
+    margin-top: 13%;
+    margin-bottom: 17%;
+    width: 25rem;
+}
+.ltk h2{
+    text-align: justify;
+    font-size: 40px;
+}
+
+.ltk p{
+    text-align: justify;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.btn1{
+    margin-top: 3%;
+    color: black;
+    padding: 10px 25px;
+    border: 2px solid tomato;
+}
+/*
+
+=========== hero end ==========
+
+*/
+
+/*
+======= Marketing start =========
+
+*/
+
+.btn2 {
+    margin-top: 13.6%;
+}
+.mar{
+    margin-top: 10%;
+}
+.mar h2{
+    font-size: 35px;
+}
+.mar p{
+    padding-top:22%;
+}
+.btn2 a{
+    color: #fff;
+    background: #6248E7;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.rou {
+    width:20px;
+    height: 20px;
+    background: tomato;
+    padding: 5px 10px;
+    border-radius: 50%;
+    color: #fff;
+}
+
+.mkt {
+    margin-top: 6%;
+}
+
+.sb {
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+
+.shakil{
+    background: tomato;
+    padding:7px 12px;
+    border-radius: 50%;
+}
+
+.sbt{
+    padding-top: 10%;
+    padding-left: 5%;
+}
+.sbt2{
+    margin-top: 22%;
+    height: 7rem;
+}
+.blank{
+    padding-left: 17.4%;
+}
+
+/*
+
+============ cards ===========
+
+*/
+
+.cardmr{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.cardbg {
+    background: #FAF9F7;
+}
+
+
+/*
+    ==========  better discuss =========
+*/
+
+.btrbg {
+    background: #FFF0E9;
+}
+
+.btrmg {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.btrmg p{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.btrmg a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+    background: tomato;
+    border-radius: 20px;
+}
+
+/*
+
+========= Last =====
+
+*/
+
+.lstmr {
+    margin-top: 5%;
+    margin-bottom:5%;
+}
